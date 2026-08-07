@@ -51,9 +51,7 @@ The STL syntax is described in [`docs/STL_GRAMMAR.md`](docs/STL_GRAMMAR.md).
 - The dataset does not currently include scene, template, or task-family metadata.
 - This research dataset is not validated for direct use in real-world flight or other safety-critical control systems.
 
-## Source and license
-
-UAV-NL2STL was constructed by the authors for navigation-oriented NL-to-STL research. The dataset and repository contents are released under the [Creative Commons Attribution 4.0 International License](LICENSE). Reusers must provide attribution, link to the license, and indicate whether changes were made.
+## Citation
 
 Citation metadata is provided in [`CITATION.cff`](CITATION.cff).
 
