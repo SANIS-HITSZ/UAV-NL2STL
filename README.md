@@ -57,4 +57,4 @@ Citation metadata is provided in [`CITATION.cff`](CITATION.cff).
 
 ## Associated paper
 
-Yuqi Ping, Huahao Ding, Tianhao Liang, Longyu Zhou, Guangyu Lei, Xinglin Chen, Junwei Wu, Jieyu Zhou, and Tingting Zhang, "LLM-Enabled Low-Altitude UAV Natural Language Navigation via Signal Temporal Logic Specification Translation and Repair."
+Yuqi Ping, Huahao Ding, Tianhao Liang, Longyu Zhou, Guangyu Lei, Xinglin Chen, Junwei Wu, Jieyu Zhou, and Tingting Zhang, "[LLM-Enabled Low-Altitude UAV Natural Language Navigation via Signal Temporal Logic Specification Translation and Repair](https://ieeexplore.ieee.org/document/11627954)."
