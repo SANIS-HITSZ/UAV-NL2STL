@@ -42,19 +42,17 @@ python scripts/validate_dataset.py
 
 The STL syntax is described in [`docs/STL_GRAMMAR.md`](docs/STL_GRAMMAR.md).
 
-## Known limitations
-
-- The language and formulas are synthetic and highly template-structured.
-- Some natural-language instructions use ordering expressions such as `before`, while their labels encode only a conjunction of bounded eventualities. Such labels do not enforce ordering under standard STL semantics and require further semantic audit.
-- The source includes 367 additional records whose `(sentence, stl)` pair duplicates another record. They are retained to preserve the released source collection.
-- Atomic-proposition capitalization is not fully normalized; for example, some records use `Black chair`.
-- The dataset does not currently include scene, template, or task-family metadata.
-- This research dataset is not validated for direct use in real-world flight or other safety-critical control systems.
-
 ## Citation
 
-Citation metadata is provided in [`CITATION.cff`](CITATION.cff).
-
-## Associated paper
-
 [LLM-Enabled Low-Altitude UAV Natural Language Navigation via Signal Temporal Logic Specification Translation and Repair](https://ieeexplore.ieee.org/document/11627954)
+
+```bibtex
+@article{ping2026llm,
+  title={LLM-Enabled Low-Altitude UAV Natural Language Navigation via Signal Temporal Logic Specification Translation and Repair},
+  author={Ping, Yuqi and Ding, Huahao and Liang, Tianhao and Zhou, Longyu and Lei, Guangyu and Chen, Xinglin and Wu, Junwei and Zhou, Jieyu and Zhang, Tingting},
+  journal={IEEE Transactions on Cognitive Communications and Networking},
+  year={2026},
+  publisher={IEEE},
+  url={https://ieeexplore.ieee.org/document/11627954}
+}
+```
