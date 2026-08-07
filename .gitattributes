@@ -1,0 +1,6 @@
+* text=auto eol=lf
+*.jsonl -text whitespace=-trailing-space
+*.json -text
+*.md text eol=lf
+*.py text eol=lf
+*.sha256 text eol=lf
